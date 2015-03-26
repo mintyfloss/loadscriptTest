@@ -1,0 +1,9 @@
+{
+  "name": "loadscripTest",
+  "description": "",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.12.3",
+    "scoutfile": "1.0.0"
+  }
+}
